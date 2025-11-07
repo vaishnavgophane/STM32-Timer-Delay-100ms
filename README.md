@@ -27,14 +27,6 @@ The timer is configured using **STM32CubeMX (IOC file)** to generate periodic de
 | Mode                   | Up-counting          |
 | Output                 | LED Toggle (PIN: PA0)|
 
-**Delay Calculation:**
-\[
-Delay = (PSC + 1) \times (ARR + 1) / TimerClock
-\]
-\[
-Delay = (8399 + 1) \times (9999 + 1) / 84 MHz ≈ 0.1 s = 100 ms
-\]
-
 ---
 
 ## 🧠 Files Included
