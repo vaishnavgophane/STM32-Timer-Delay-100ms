@@ -5,7 +5,7 @@ This project demonstrates how to configure and use a **hardware timer** in the *
 
 ## 🚀 Project Overview
 
-- **Microcontroller:** STM32F103G 
+- **Microcontroller:** STM32F103C6TA
 - **Toolchain:** STM32CubeIDE
 - **Simulation:** Proteus 8 Professional
 - **Delay:** 100 ms (using Timer interrupt or polling)
