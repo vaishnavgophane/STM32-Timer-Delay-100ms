@@ -34,7 +34,6 @@ The timer is configured using **STM32CubeMX (IOC file)** to generate periodic de
 | File / Folder | Description |
 |----------------|-------------|
 | `main.c` | Main source file implementing 100 ms delay using timer |
-| `stm32f4xx_it.c` | Interrupt service routine (if interrupt mode used) |
 | `.ioc` | STM32CubeMX configuration file |
 | `Proteus Simulation.pdsprj` | Proteus simulation schematic |
 | `README.md` | This documentation file |
